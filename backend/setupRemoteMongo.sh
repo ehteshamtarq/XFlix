@@ -1,0 +1,1 @@
+mongoimport --uri "mongodb+srv://cluster0.2uklvzd.mongodb.net/" --username ehteshamtarique1 --drop --collection videos data/data.json

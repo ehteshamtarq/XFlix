@@ -1,0 +1,1 @@
+module.exports.Video = require('./video.models').Video
